@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-swapnilkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smrutiprayag/)](https://www.linkedin.com/in/swapnilkul/) 
+[![Linkedin Badge](https://img.shields.io/badge/-smrutiprayag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smrutiprayag/)](https://www.linkedin.com/in/swapnilkul/) 
 [![Gmail Badge](https://img.shields.io/badge/-smrutiprg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smrutiprg@gmail.com)](mailto:smrutiprg@gmail.com)
 
 I am from Pune, India and currently working with Dassault Systems.
